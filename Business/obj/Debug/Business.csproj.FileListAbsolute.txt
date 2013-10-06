@@ -1,0 +1,12 @@
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\bin\Debug\Business.dll.config
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\bin\Debug\Business.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\bin\Debug\Business.pdb
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\bin\Debug\DAL.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\bin\Debug\Service.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\bin\Debug\EntityFramework.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\bin\Debug\DAL.pdb
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\bin\Debug\Service.pdb
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\bin\Debug\EntityFramework.xml
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\obj\Debug\Business.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\Business\obj\Debug\Business.pdb

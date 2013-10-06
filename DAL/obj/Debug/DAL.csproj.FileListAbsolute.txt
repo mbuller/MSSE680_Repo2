@@ -1,0 +1,8 @@
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\DAL\bin\Debug\DAL.dll.config
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\DAL\bin\Debug\DAL.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\DAL\bin\Debug\DAL.pdb
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\DAL\bin\Debug\EntityFramework.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\DAL\bin\Debug\EntityFramework.xml
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\DAL\obj\Debug\DAL.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\DAL\obj\Debug\DAL.pdb
+C:\Users\mbuller\Documents\Visual Studio 2012\Projects\MSSE680_SPF3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

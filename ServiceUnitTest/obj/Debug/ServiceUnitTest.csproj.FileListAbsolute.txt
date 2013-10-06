@@ -1,0 +1,12 @@
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\bin\Debug\ServiceUnitTest.dll.config
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\bin\Debug\ServiceUnitTest.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\bin\Debug\ServiceUnitTest.pdb
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\bin\Debug\DAL.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\bin\Debug\EntityFramework.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\bin\Debug\Service.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\bin\Debug\DAL.pdb
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\bin\Debug\Service.pdb
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\bin\Debug\EntityFramework.xml
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\obj\Debug\ServiceUnitTest.csprojResolveAssemblyReference.cache
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\obj\Debug\ServiceUnitTest.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\ServiceUnitTest\obj\Debug\ServiceUnitTest.pdb

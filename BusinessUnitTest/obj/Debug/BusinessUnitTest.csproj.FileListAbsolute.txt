@@ -1,0 +1,14 @@
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\bin\Debug\BusinessUnitTest.dll.config
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\bin\Debug\BusinessUnitTest.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\bin\Debug\BusinessUnitTest.pdb
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\bin\Debug\Business.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\bin\Debug\DAL.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\bin\Debug\EntityFramework.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\bin\Debug\Service.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\bin\Debug\Business.pdb
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\bin\Debug\DAL.pdb
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\bin\Debug\Service.pdb
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\bin\Debug\EntityFramework.xml
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\obj\Debug\BusinessUnitTest.csprojResolveAssemblyReference.cache
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\obj\Debug\BusinessUnitTest.dll
+c:\users\mbuller\documents\visual studio 2012\Projects\MSSE680_SPF3\BusinessUnitTest\obj\Debug\BusinessUnitTest.pdb
